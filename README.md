@@ -34,4 +34,4 @@ DieForNextGen
 Tokyo, Japan
 
 ### ウェブサイト
-なし
+https://twitter.com/Japanificated
