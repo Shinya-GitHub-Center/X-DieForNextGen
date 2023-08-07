@@ -22,7 +22,7 @@
 
 ## Twitter Gitで管理部門
 ### アカウント名
-伊原真也（浅はかな人生にサヨナラを...）
+伊原真也（Shinya Ihara）
 
 ### TwitterID
 DieForNextGen
