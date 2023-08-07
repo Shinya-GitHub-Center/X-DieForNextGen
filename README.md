@@ -34,4 +34,4 @@ DieForNextGen
 Tokyo, Japan
 
 ### ウェブサイト
-https://twitter.com/Japanificated
+https://github.com/Shinya-GitHub-Center
